@@ -34,8 +34,8 @@
     "eslint": "^4.0.0",
     "eslint-config-loopback": "^10.0.0",
     "loopback": "^3.0.0",
-    "loopback-connector-mongodb": "^1.8.0",
-    "mocha": "^4.0.0",
+    "loopback-connector-mongodb": "^4.2.0",
+    "mocha": "^6.1.4",
     "should": "^6.0.0",
     "sinon": "^1.14.0"
   },
